@@ -1,0 +1,13 @@
+.alignment{
+    flex-direction: row;
+    margin: 1.5%;
+    display: flex;
+}
+
+.mat-accordion{
+    padding: .8%;
+}
+
+.mat-panel-description{
+    text-align: center;
+}
